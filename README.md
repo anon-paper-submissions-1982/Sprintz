@@ -1,8 +1,6 @@
 
 Sprintz is a compression algorithm for multivariate integer time series. It requires only a few bytes of memory per variable, offers state-of-the-art compression ratios, and can decompress at multiple GB/s in a single thread.
 
-See the [Sprintz paper](https://github.com/dblalock/sprintz/blob/master/assets/sprintz.pdf?raw=true) for details.
-
 # Reproduction of Results
 
 To reproduce any of the results in the paper, you can do the following.
@@ -23,7 +21,7 @@ To reproduce any of the results in the paper, you can do the following.
 
 ## Run Experiments
 
- 1. Clone our [benchmark repository](https://github.com/dblalock/lzbench).
+ 1. Clone our [benchmark repository](https://github.com/anon-paper-submissions-1982/tsbench).
  1. Modify `_python/datasets/paths.py` to point to dataset locations on your machine.
  1. Modify `_python/config.py` to save results and figures where you'd like.
  1. Run
