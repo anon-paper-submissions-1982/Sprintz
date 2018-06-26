@@ -54,4 +54,3 @@ As an alternative to re-running the experiments if you just want to compare to u
 
 - At present, Sprintz has only been tested with Clang on OS X.
 - Feel free to contact us with any and all questions. We're happy to help.
-
