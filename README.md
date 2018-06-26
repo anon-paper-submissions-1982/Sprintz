@@ -1,4 +1,3 @@
-
 Sprintz is a compression algorithm for multivariate integer time series. It requires only a few bytes of memory per variable, offers state-of-the-art compression ratios, and can decompress at multiple GB/s in a single thread.
 
 # Reproduction of Results
